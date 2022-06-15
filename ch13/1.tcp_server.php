@@ -1,6 +1,6 @@
 <?php
 
-// UDP - 속도 , TCP - 안정성
+// UDP - 속도 , TCP - 안정성 중요!
 
 $addr = gethostbyname('localhost');
 $port = 5091;
